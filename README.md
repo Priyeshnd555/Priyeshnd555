@@ -1,4 +1,4 @@
-# Hi, I'm PRIYESH ! 👋
+# Hi, I'm PRIYESH N D ! 👋
 
 I am a passionate fullstack developer at Logixal inc, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of web devlopment, exploring new ideas, and sharing my insights with the community.
 
