@@ -4,7 +4,7 @@ I am a passionate fullstack developer at Logixal inc, driven by a curiosity for 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently  working as a frontend developer at Logixal Inc.
+- 🔭 I'm currently  working as a Fullstack (mobile+web+backend) developer at Logixal Inc.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
