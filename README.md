@@ -1,42 +1,50 @@
-# PRIYESH N D –  Senior Fullstack Mobile + Web Developer 🚀
+# PRIYESH N D  
+*Senior Fullstack Developer* 🚀
 
-I build reliable, scalable, and maintainable software across web, mobile, and backend.  
-I take complete ownership of what I work on — from architecture to deployment — and make sure it runs exactly as expected.  
-My code isn’t just functional — it’s built to last.
-
-I work with intent, clarity, and a strong bias for action.
+> **I don’t just write code. I own it.**  
+> Building reliable, scalable, and maintainable software across mobile, web, and backend — from start to finish.  
+> My work speaks for itself: clean, fast, and built to last.
 
 ---
 
 ## 🧠 About Me
 
-- **Senior Fullstack Developer** at **Logixal Inc.**
-- Working across **Flutter**, **React**, **Node.js**, and **DevOps** — building complete systems end-to-end  
-- Experienced with managing **production systems**, **CI/CD pipelines**, **containerisation**, and **cloud infrastructure**
-- I care about **code quality**, **speed**, and **long-term maintainability**
+Senior Fullstack Developer at **Logixal Inc.**  
+Expertise in **Flutter**, **React**, **Node.js**, and **DevOps** — delivering end-to-end solutions with precision.  
+Experienced in managing production environments, CI/CD pipelines, containerization, and cloud infrastructure.  
+Relentlessly focused on code quality, speed, and long-term maintainability.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Redux, TailwindCSS  
-- **Backend**: Node.js, NestJS, Express  
-- **Mobile**: Flutter (iOS + Android)  
-- **Database**: MongoDB, SQL  
-- **DevOps**: AWS, Docker, Kubernetes, Linux, Shell scripting
+| Frontend                      | Backend                    | Mobile                  | Database              | DevOps & Tools                     |
+|-------------------------------|----------------------------|-------------------------|-----------------------|----------------------------------|
+| ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![Express](https://skillicons.dev/icons?i=express) | ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postgres](https://skillicons.dev/icons?i=postgres) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Shell](https://skillicons.dev/icons?i=bash) |
 
 ---
 
-## 🔄 Current Focus
+### Tech Stack Details
 
-- Building high-performance **mobile and web apps**  
-- Designing backend services with **clean structure** and **strong testing**  
-- Managing deployments and infrastructure with **modern DevOps practices**  
-- Continuously improving workflows to **reduce complexity** and **increase reliability**
+- **Frontend:** JavaScript (JS), TypeScript (TS), React, Redux, TailwindCSS  
+- **Backend:** Node.js, NestJS, Express  
+- **Mobile:** Flutter (iOS & Android)  
+- **Database:** MongoDB, PostgreSQL  
+- **DevOps & Tools:** AWS, Docker, Kubernetes, Linux, Shell scripting  
 
 ---
 
-## 🤝 Let’s Connect : 
-my site : https://priyeshnd555.github.io/
+## 🔄 What I’m Building Now
 
-If you're working on something serious and need someone who delivers **clean, production-ready work** — feel free to reach out.
+- High-performance mobile & web apps — designed to scale and endure  
+- Backend services with clean architecture & rigorous testing  
+- Robust CI/CD pipelines & cloud infrastructure with modern DevOps  
+- Streamlined workflows to cut complexity & boost reliability  
+
+---
+
+## 🤝 Let’s Connect
+
+If you want production-ready, scalable code written with precision —  
+and you’re serious about quality —  
+**Let’s talk.**
