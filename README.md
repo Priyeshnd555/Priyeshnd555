@@ -1,39 +1,42 @@
-# Hi, I'm PRIYESH N D ! 👋
+# PRIYESH N D –  Senior Fullstack Mobile + Web Developer 🚀
 
-I am a passionate fullstack developer at Logixal inc, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of web devlopment, exploring new ideas, and sharing my insights with the community.
+I build reliable, scalable, and maintainable software across web, mobile, and backend.  
+I take complete ownership of what I work on — from architecture to deployment — and make sure it runs exactly as expected.  
+My code isn’t just functional — it’s built to last.
 
-## 🚀 About Me
+I work with intent, clarity, and a strong bias for action.
 
-- 🔭 I'm currently  working as a Fullstack (mobile+web+backend) developer at Logixal Inc.
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🧠 About Me
 
-## 🌱 Currently Exploring
+- **Senior Fullstack Developer** at **Logixal Inc.**
+- Working across **Flutter**, **React**, **Node.js**, and **DevOps** — building complete systems end-to-end  
+- Experienced with managing **production systems**, **CI/CD pipelines**, **containerisation**, and **cloud infrastructure**
+- I care about **code quality**, **speed**, and **long-term maintainability**
 
-- 🚀 Full Stack Web Development 
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of web development.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Express JS and Nestjs.
-  - Diving into Mongo for efficient database management.
+---
 
+## 🛠️ Tech Stack
 
+- **Frontend**: React, Redux, TailwindCSS  
+- **Backend**: Node.js, NestJS, Express  
+- **Mobile**: Flutter (iOS + Android)  
+- **Database**: MongoDB, SQL  
+- **DevOps**: AWS, Docker, Kubernetes, Linux, Shell scripting
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
+## 🔄 Current Focus
 
+- Building high-performance **mobile and web apps**  
+- Designing backend services with **clean structure** and **strong testing**  
+- Managing deployments and infrastructure with **modern DevOps practices**  
+- Continuously improving workflows to **reduce complexity** and **increase reliability**
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 🤝 Let’s Connect : 
+my site : https://priyeshnd555.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're working on something serious and need someone who delivers **clean, production-ready work** — feel free to reach out.
