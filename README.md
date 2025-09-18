@@ -1,18 +1,23 @@
-# PRIYESH N D  
-*Senior Fullstack Developer* 🚀
+# ⚡️ PRIYESH N D ⚡️  
+### _Moblie + Web  Senior Fullstack Developer_ 🚀
 
-> **I don’t just write code. I own it.**  
-> Building reliable, scalable, and maintainable software across mobile, web, and backend — from start to finish.  
-> My work speaks for itself: clean, fast, and built to last.
+---
+
+> ## **Code isn’t just written, it’s mastered.**
+>  
+> **Building** reliable, scalable, and maintainable software across **mobile**, **web**, and **backend** — from start to finish.  
+>  
+> My work speaks for itself:  
+> **💎 Clean** | **⚡️ Fast** | **🔒 Built to last**
 
 ---
 
 ## 🧠 About Me
 
-Senior Fullstack Developer at **Logixal Inc.**  
-Expertise in **Flutter**, **React**, **Node.js**, and **DevOps** — delivering end-to-end solutions with precision.  
-Experienced in managing production environments, CI/CD pipelines, containerization, and cloud infrastructure.  
-Relentlessly focused on code quality, speed, and long-term maintainability.
+👨‍💻 **Senior Fullstack Developer @ Logixal Inc.**  
+✨ Expertise: **Flutter** | **React** | **Node.js** | **DevOps**  
+🚀 Skilled in production environments, CI/CD pipelines, containerization, and cloud infrastructure.  
+🎯 Relentlessly focused on **code quality**, **speed**, and **long-term maintainability**.
 
 ---
 
@@ -43,7 +48,8 @@ Relentlessly focused on code quality, speed, and long-term maintainability.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect 
+My site: https://priyeshnd555.github.io/
 
 If you want production-ready, scalable code written with precision —  
 and you’re serious about quality —  
