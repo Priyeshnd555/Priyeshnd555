@@ -9,7 +9,7 @@
 
 👨‍💻 **Senior Fullstack Developer @ Logixal Inc.**  
 ✨ Expertise: **Flutter** | **React** | **Node.js** | **DevOps**  
-🚀 Skilled in production environments, CI/CD pipelines, containerization, and cloud infrastructure.  
+🚀 Skilled in production environments, CI/CD pipelines, containerization, 
 🎯 Relentlessly focused on **code quality**, **speed**, and **long-term maintainability**.
 
 ---
