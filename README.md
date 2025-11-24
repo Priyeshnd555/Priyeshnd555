@@ -3,13 +3,6 @@
 
 ---
 
-> ## **Code isn’t just written, it’s mastered.**
->  
-> **Building** reliable, scalable, and maintainable software across **mobile**, **web**, and **backend** — from start to finish.  
->  
-> My work speaks for itself:  
-> **💎 Clean** | **⚡️ Fast** | **🔒 Built to last**
-
 ---
 
 ## 🧠 About Me
