@@ -1,5 +1,5 @@
 # ⚡️ PRIYESH N D ⚡️  
-### _Moblie + Web  Senior Fullstack Developer_ 🚀
+### _Moblie + Web   Developer_ 🚀
 
 ---
 
@@ -7,10 +7,10 @@
 
 ## 🧠 About Me
 
-👨‍💻 **Senior Fullstack Developer @ Logixal Inc.**  
+👨‍💻 **  Developer @ Logixal Inc.**  
 ✨ Expertise: **Flutter** | **React** | **Node.js** | **DevOps**  
-🚀 Skilled in production environments, CI/CD pipelines, containerization, 
-🎯 Relentlessly focused on **code quality**, **speed**, and **long-term maintainability**.
+🚀 Skilled , 
+🎯  focused on **code quality**, **speed**, and **long-term maintainability**.
 
 ---
 
@@ -34,16 +34,12 @@
 
 ## 🔄 What I’m Building Now
 
-- High-performance mobile & web apps — designed to scale and endure  
-- Backend services with clean architecture & rigorous testing  
-- Robust CI/CD pipelines & cloud infrastructure with modern DevOps  
-- Streamlined workflows to cut complexity & boost reliability  
+- mobile & web apps
+- Backend services 
+-  CI/CD pipelines
+-  workflows 
 
 ---
 
-## 🤝 Let’s Connect 
 My site: https://priyeshnd555.github.io/
 
-If you want production-ready, scalable code written with precision —  
-and you’re serious about quality —  
-**Let’s talk.**
