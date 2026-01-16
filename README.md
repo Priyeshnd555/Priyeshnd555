@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-👨‍💻 **  Developer @ Logixal Inc.**  
+👨‍💻 **Developer @ Logixal Inc**  
 ✨ Expertise: **React** | **Flutter** | **React Native** | **Node.js** | **DevOps**  
 🚀 Skilled , 
 🎯  focused on **code quality**, **speed**, and **long-term maintainability**.
